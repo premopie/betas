@@ -1,0 +1,36 @@
+alpha: 0.6113503895712625
+beta: !!python/object/apply:numpy.core.multiarray._reconstruct
+  args:
+  - !!python/name:numpy.ndarray ''
+  - !!python/tuple
+    - 0
+  - !!binary |
+    Yg==
+  state: !!python/tuple
+  - 1
+  - !!python/tuple
+    - 3
+    - 15
+  - !!python/object/apply:numpy.dtype
+    args:
+    - f8
+    - false
+    - true
+    state: !!python/tuple
+    - 3
+    - <
+    - null
+    - null
+    - null
+    - -1
+    - -1
+    - 0
+  - false
+  - !!binary |
+    ZSoEJptjsT9LV6Gyt84kPyCa3ZLwd70/D8iOB11zoD/fZC2QDPORP7sobocOrMI/o96GlAttgz84
+    LkSALmpoP68b5z/BlsI/edILtCJllz9PTfd6MOm4P61WJ3iiN7g/DdesPIB8jj8ZmfgV3Va5P3Zt
+    QghARsE/at/QNy3VbT+3IOJMWxGjP2WVZKHCApA/FrI9w8T0wj915UdxKFK3PyQW631dJkA/fa5v
+    fAi6Yz/wCmc1hdW6P++gP92ASsI/Gas7iK9xoD/Z6pOzVsyYP9mQUqLO5Lg/LzuVF3wSxD+CKMUX
+    3knCPzTPMOTuMTo/tzn6g0B1qj/HZ2QmLg1LP13aQ36tGbs/YhPynK2pvz9h9o9yLXShP9n3Ds5k
+    xsk/NU3yL3z5jT9ZpnTgbo+bPrwEzQNNIHI/OYGPM2qTtz8nycp/bAysPyb20leVtaY/k/a3umfA
+    wT/oe4KhuDyXP6GC1PllX7w/
